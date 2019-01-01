@@ -1,3 +1,3 @@
 ### 3D effect using CSS3
 
-<img src="./CSS-3d effects.gif" alt="img">
+<img src="./3d-effect.gif" alt="img">
